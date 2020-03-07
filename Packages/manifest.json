@@ -1,0 +1,59 @@
+{
+  "dependencies": {
+    "com.coffee.upm-git-extension": "https://github.com/mob-sakai/UpmGitExtension.git",
+    "com.unity.collab-proxy": "1.2.16",
+    "com.unity.ide.rider": "1.1.4",
+    "com.unity.ide.vscode": "1.1.4",
+    "com.unity.test-framework": "1.1.11",
+    "com.unity.textmeshpro": "2.0.1",
+    "com.unity.timeline": "1.2.12",
+    "com.unity.ugui": "1.0.0",
+    "com.worldreaver.systembuffers": "git+https://github.com/worldreaver/SystemBuffers#4.5.0",
+    "com.worldreaver.systemruntimecompilerservicesunsafe": "git+https://github.com/worldreaver/SystemRuntimeCompilerServicesUnsafe#4.5.2",
+    "com.unity.modules.ai": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.assetbundle": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.cloth": "1.0.0",
+    "com.unity.modules.director": "1.0.0",
+    "com.unity.modules.imageconversion": "1.0.0",
+    "com.unity.modules.imgui": "1.0.0",
+    "com.unity.modules.jsonserialize": "1.0.0",
+    "com.unity.modules.particlesystem": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0",
+    "com.unity.modules.screencapture": "1.0.0",
+    "com.unity.modules.terrain": "1.0.0",
+    "com.unity.modules.terrainphysics": "1.0.0",
+    "com.unity.modules.tilemap": "1.0.0",
+    "com.unity.modules.ui": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0",
+    "com.unity.modules.umbra": "1.0.0",
+    "com.unity.modules.unityanalytics": "1.0.0",
+    "com.unity.modules.unitywebrequest": "1.0.0",
+    "com.unity.modules.unitywebrequestassetbundle": "1.0.0",
+    "com.unity.modules.unitywebrequestaudio": "1.0.0",
+    "com.unity.modules.unitywebrequesttexture": "1.0.0",
+    "com.unity.modules.unitywebrequestwww": "1.0.0",
+    "com.unity.modules.vehicles": "1.0.0",
+    "com.unity.modules.video": "1.0.0",
+    "com.unity.modules.vr": "1.0.0",
+    "com.unity.modules.wind": "1.0.0",
+    "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.coffee.upm-git-extension": {
+      "revision": "HEAD",
+      "hash": "b0032f7ad3e8ed6d348c61a14fe29e2c42d2a97c"
+    },
+    "com.worldreaver.systembuffers": {
+      "revision": "4.5.0",
+      "hash": "f03c014d4c2be15052b2a71885c5149c5d596646"
+    },
+    "com.worldreaver.systemruntimecompilerservicesunsafe": {
+      "revision": "4.5.2",
+      "hash": "c245774e205557a1a91e7b139ce79d1b4c60efe0"
+    }
+  }
+}
