@@ -1,0 +1,17 @@
+{
+  "name": "com.worldreaver.systemmemory",
+  "displayName": "SystemMemory",
+  "description": "Provides types for efficient representation and pooling of managed, stack, and native memory segments and sequences of such segments, along with primitives to parse and format UTF-8 encoded text stored in those memory segments.",
+  "version": "4.5.3",
+  "unity": "2018.3",
+  "author": "yenmoc <phongsoyenmoc.diep@gmail.com> (https://github.com/phongsoyenmoc)",
+  "license": "MIT",
+  "dependencies": {
+    "com.worldreaver.systembuffers": "ssh://git@github.com/worldreaver/SystemBuffers#4.5.0",
+    "com.worldreaver.systemruntimecompilerservicesunsafe": "ssh://git@github.com/worldreaver/SystemRuntimeCompilerServicesUnsafe#4.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/worldreaver/SystemMemory"
+  }
+}
