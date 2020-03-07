@@ -2,7 +2,7 @@
   "name": "com.worldreaver.systemmemory",
   "displayName": "SystemMemory",
   "description": "Provides types for efficient representation and pooling of managed, stack, and native memory segments and sequences of such segments, along with primitives to parse and format UTF-8 encoded text stored in those memory segments.",
-  "version": "1.0.0",
+  "version": "4.5.3",
   "unity": "2018.3",
   "author": "yenmoc <phongsoyenmoc.diep@gmail.com> (https://github.com/phongsoyenmoc)",
   "license": "MIT",
